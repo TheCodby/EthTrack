@@ -8,3 +8,4 @@ app.egg-info
 .env.prod
 .env.test
 .env.ci
+.venv
