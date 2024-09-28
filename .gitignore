@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+app.egg-info
+.coverage
+.pytest_cache
+.env
+.env.dev
+.env.prod
+.env.test
+.env.ci
