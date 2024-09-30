@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends, HTTPException, Path
 from src.schemas.transaction import EthereumTransaction
-from src.core.transactions import get_eth_fetcher, EthTransactionFetcher
+from src.core.transaction import get_eth_fetcher, EthTransactionFetcher
 
 router = APIRouter()
 
